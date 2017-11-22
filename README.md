@@ -11,7 +11,7 @@ Simply
 xelatex main.tex
 ```
 
-Or you can download the project `pdf` I have compiled directly. 
+Or you can download the project [`pdf`](https://github.com/memoiry/day_day_up/releases/download/v0.1/main.pdf) I have compiled directly. 
 
 
 Enjoy!
